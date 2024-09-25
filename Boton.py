@@ -1,2 +1,2 @@
 #un tractor kubota
-print "Hola"
+print("Hola")
